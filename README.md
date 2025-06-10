@@ -13,6 +13,3 @@ This project analyzes a telecom company dataset to identify patterns in customer
 3. Encode categorical variables
 4. Train a logistic regression model
 5. Evaluate accuracy, precision, recall
-
-## 📁 Dataset
-- [Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
